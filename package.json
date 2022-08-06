@@ -1,0 +1,12 @@
+{
+  "name": "hardwaredoc",
+  "version": "1.0.0",
+  "description": "docs of hardware",
+  "repository": "https://github.com/ChrisChan2015/HardWareDoc.git",
+  "author": "Chris",
+  "license": "Apache 2.0",
+  "private": true,
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
