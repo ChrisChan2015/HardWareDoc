@@ -1,5 +1,6 @@
 module.exports = {
     title: "采集指令速查表",
+    base:"/hardwaredoc/",
     themeConfig: {
         logo: "/assets/img/logo.png",
         sidebar: [
